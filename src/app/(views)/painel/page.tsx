@@ -76,7 +76,7 @@ export default function Painel(){
                             <Image src={logoFundo} alt='' className='rounded-full w-9'/>
                             <div className='flex items-center justify-between my-3'>
                                 <p>saldo iti</p>
-                                <p className='font-semibold'>R$ 1.026.849,23</p>
+                                <p className='font-semibold'>R$ 11.026.849,23</p>
                             </div>
                             <div className='border border-neutral-200'></div>
                             <div className='flex items-center justify-between text-neutral-500 mt-3'>
