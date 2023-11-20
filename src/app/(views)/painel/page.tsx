@@ -23,7 +23,7 @@ export default function Painel(){
                 <header className='flex justify-between mb-12'>
                     <div className='flex items-center'>
                         <Image src={userImage} alt='' className='w-8 rounded-full mr-3 text-lg'/>
-                        <div className='font-semibold text-white'>Davi</div>
+                        <div className='font-semibold text-white'>Diovani</div>
                     </div>
                     <div className='flex items-center'>
                         <AiOutlineQuestionCircle className='text-3xl text-white mr-3'/>
