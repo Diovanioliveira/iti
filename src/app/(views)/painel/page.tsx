@@ -22,7 +22,7 @@ export default function Painel(){
             <div className='p-6 pb-60 relative'>
                 <header className='flex justify-between mb-12'>
                     <div className='flex items-center'>
-                        <Image src={userImage} alt='' className='w-8 rounded-full mr-3 text-lg'/>
+                       
                         <div className='font-semibold text-white'>Lucas Hessler</div>
                     </div>
                     <div className='flex items-center'>
