@@ -23,7 +23,7 @@ export default function Painel(){
                 <header className='flex justify-between mb-12'>
                     <div className='flex items-center'>
                        
-                        <div className='font-semibold text-white'>Lucas Hessler</div>
+                        <div className='font-semibold text-white'>Diovani de Oliveira</div>
                     </div>
                     <div className='flex items-center'>
                         <AiOutlineQuestionCircle className='text-3xl text-white mr-3'/>
